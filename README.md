@@ -1,5 +1,5 @@
-### Hello guys 👋
-## I'm Gustavo Magalhães.
+## Hey everyone 👋
+### I'm Gustavo Magalhães.
 
 - 🌱 I’m currently learning ReacJS, React Native and NodeJS
 - 😄 Pronouns: He/him
