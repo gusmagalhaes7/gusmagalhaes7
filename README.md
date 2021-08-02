@@ -6,7 +6,7 @@
 - 🧏‍♂️	From Jundiaí - SP, Brazil
 - :man_technologist: For more, reach me here gtomagalhaes@gmail.com
 
-## Conect with me here:
+## Connect with me here:
 <a href="https://www.linkedin.com/in/gustavomagalhaes7/" target="_blank">
 <img align="center" alt="gustavo-linkedin" heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
